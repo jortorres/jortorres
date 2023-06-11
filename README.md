@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my company Field Resouces Group and continous learning!!
+- 🔭 I’m currently working on building my company Field Resouces Group and continuous learning!!
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on anything lol.
 - 🤔 I’m looking for help with ...
