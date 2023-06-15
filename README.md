@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2> Software Development Projects: </h2>
