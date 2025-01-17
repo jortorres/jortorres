@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />](https://github.com/jortorres)
 
 - 🔭 I’m currently thinking of ideas and continuous learning!!
-- 🌱 I’m currently using Python.
+- 🌱 I’m currently using Python, started with Java, C.
 - 👯 I’m looking to collaborate on anything lol.
 - ⚡ Fun fact: I like the vikings.
 
