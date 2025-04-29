@@ -7,7 +7,7 @@
 - 🔭 I’m currently thinking of ideas and continuous learning!!
 - 🌱 I’m currently using Python, flask, and bootstrap, started with Java, C.
 - 👯 I’m looking to collaborate on anything lol.
-- ⚡ Fun fact: I like the vikings.
+- ⚡ Fun fact: I like the Minnesota Vikings.
 
 
 <h2> Software Development Projects: </h2>
